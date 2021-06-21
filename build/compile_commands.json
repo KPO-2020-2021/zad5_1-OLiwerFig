@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/oliwer/Pobrane/Oliwer1/app/main.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/app/main.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/example.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/example.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/example.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/lacze_do_gnuplota.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Bryla.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Bryla.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Bryla.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Dron.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Dron.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Dron.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Graniastoslup6.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Graniastoslup6.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Graniastoslup6.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Macierz3x3.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Macierz3x3.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Plaszczyzna.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Plaszczyzna.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Plaszczyzna.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Prostopadloscian.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Prostopadloscian.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Prostopadloscian.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Scena.cpp.o -c /home/oliwer/Pobrane/Oliwer1/src/Scena.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/src/Scena.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/oliwer/Pobrane/Oliwer1/tests/main.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/tests/main.cpp"
+},
+{
+  "directory": "/home/oliwer/Pobrane/Oliwer1/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/oliwer/Pobrane/Oliwer1/build -I/home/oliwer/Pobrane/Oliwer1/include -I/home/oliwer/Pobrane/Oliwer1/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c /home/oliwer/Pobrane/Oliwer1/tests/dummy.cpp",
+  "file": "/home/oliwer/Pobrane/Oliwer1/tests/dummy.cpp"
+}
+]
